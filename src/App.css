@@ -42,6 +42,7 @@ a {
   padding: 22px;
   border: 1px solid #d8e2e8;
   border-radius: 8px;
+  padding-top:8px;
 }
 
 .card {
@@ -64,7 +65,7 @@ label {
 input,
 select {
   width: 100%;
-  padding: 10px;
+  padding: 10px;s
   border: 1px solid #c8d4dc;
   border-radius: 5px;
 }
